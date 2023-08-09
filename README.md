@@ -17,7 +17,7 @@ A student enrollment form using JsonPowerDB as Database JsonPowerDB is used to p
 
 # Screenshots:
 <img src="/images/JsonPowerDB Home Page - Google Chrome 09-08-2023 22_57_59.png">
-<img src="./images/Databsae.png">
+<img src="/images/Databsae.png">
 
 # Illustrations:
 * **UPDATE** : when student roll number is already present in database then student information is fetched from database and filled in respective feild then user can UPDATE student information 
